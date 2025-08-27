@@ -42,6 +42,10 @@ a,
     font-weight: 900;
 }
 
+.info-description {
+    display: flex;
+}
+
 .info-img {
     border-radius: 12px;
     border: 6px solid #3882F6;
