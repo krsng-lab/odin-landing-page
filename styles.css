@@ -96,6 +96,11 @@ figure {
     font-size: 18px;
 }
 
+.footer-text {
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
 .nav, 
 .hero,
 .footer {
