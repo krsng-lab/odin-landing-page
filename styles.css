@@ -60,6 +60,20 @@ figure {
     text-align: center;
 }
 
+.quote-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+}
+
+.quote-name {
+    color:#1F2937;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
 .nav, 
 .hero,
 .footer {
