@@ -45,6 +45,15 @@ a,
 .info-img {
     border-radius: 12px;
     border: 6px solid #3882F6;
+    object-fit: cover;
+    width: 230px;
+    height: 230px;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 
 .nav, 
