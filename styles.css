@@ -1,4 +1,21 @@
-ul,
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    gap: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a,
 .hero-sub {
     color: #E5E7EB;
     font-size: 18px;
