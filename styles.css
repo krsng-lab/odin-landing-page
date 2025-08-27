@@ -82,6 +82,20 @@ figure {
     font-weight: bold;
 }
 
+.container {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.cta-main {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cta-sub {
+    font-size: 18px;
+}
+
 .nav, 
 .hero,
 .footer {
