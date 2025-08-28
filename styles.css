@@ -117,12 +117,19 @@ figure {
 }
 
 .cta {
+    display: flex;
     padding: 36px 14%;
 }
 
 .container {
+    border-radius: 12px;
     background-color: #3882F6;
     color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 72vw;
+    padding: 24px 96px;
 }
 
 .cta-main {
