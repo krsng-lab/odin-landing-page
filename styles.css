@@ -89,6 +89,7 @@ a,
 
 .info-description {
     display: flex;
+    justify-content: center;
 }
 
 .info-img {
@@ -102,7 +103,9 @@ a,
 figure {
     display: flex;
     flex-direction: column;
+    align-items: center;
     text-align: center;
+    max-width: 160px;
 }
 
 .quote {
