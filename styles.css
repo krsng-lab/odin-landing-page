@@ -69,6 +69,7 @@ a,
     display: flex;
     flex-direction: column;
     padding: 36px 14%;
+    overflow: hidden;
 }
 
 .info-text {
@@ -86,8 +87,8 @@ a,
     border-radius: 12px;
     border: 6px solid #3882F6;
     object-fit: cover;
-    width: 230px;
-    height: 230px;
+    width: 140px;
+    height: 140px;
 }
 
 figure {
