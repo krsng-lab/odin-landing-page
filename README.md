@@ -6,3 +6,8 @@
 ![cat photo from Pixabay](https://www.pexels.com/photo/white-and-grey-kitten-on-brown-and-black-leopard-print-textile-45201/)
 ![cat photo by Lina Kivaka](https://www.pexels.com/photo/photo-of-orange-tabby-cat-with-red-handkerchief-1741205/)
 ![cat photo by Cats Coming](https://www.pexels.com/photo/european-shorthair-cat-on-a-woven-basket-1543793/)
+
+### Snippets
+<img src="img/01_snapshot.png">
+<img src="img/02_snapshot.png">
+<img src="img/03_snapshot.png">
