@@ -44,10 +44,21 @@ a,
     font-weight: 900;
 }
 
+.hero-btn {
+    border: none;
+    border-radius: 12px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    padding: 6px 24px;
+
+}
+
 .info-text {
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;
+    text-align: center;
 }
 
 .info-description {
@@ -84,6 +95,7 @@ figure {
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
+    margin-left: auto;
 }
 
 .container {
