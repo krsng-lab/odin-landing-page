@@ -6,9 +6,15 @@ body {
     margin: 0;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+}
+
 .nav {
     display: flex;
     justify-content: space-between;
+    padding: 24px 14%;
 }
 
 ul {
@@ -25,6 +31,7 @@ a {
 
 .hero {
     display: flex;
+    padding: 36px 14%;
 }
 
 a,
@@ -58,6 +65,12 @@ a,
     border: 3px solid #F9FAF8;
 }
 
+.info {
+    display: flex;
+    flex-direction: column;
+    padding: 36px 14%;
+}
+
 .info-text {
     color: #1F2937;
     font-size: 36px;
@@ -85,6 +98,7 @@ figure {
 
 .quote {
     background-color: #E5E7EB;
+    padding: 36px 14%;
 }
 
 .quote-text {
@@ -102,6 +116,10 @@ figure {
     margin-left: auto;
 }
 
+.cta {
+    padding: 36px 14%;
+}
+
 .container {
     background-color: #3882F6;
     color: #F9FAF8;
@@ -114,6 +132,10 @@ figure {
 
 .cta-sub {
     font-size: 18px;
+}
+
+.footer {
+    padding: 24px 14%;
 }
 
 .footer-text {
