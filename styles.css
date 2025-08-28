@@ -44,14 +44,18 @@ a,
     font-weight: 900;
 }
 
-.hero-btn {
+.hero-btn,
+.cta-btn {
     border: none;
     border-radius: 12px;
     background-color: #3882F6;
     color: #F9FAF8;
     font-weight: bold;
     padding: 6px 24px;
+}
 
+.cta-btn {
+    border: 3px solid #F9FAF8;
 }
 
 .info-text {
