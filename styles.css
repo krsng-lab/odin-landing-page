@@ -136,11 +136,15 @@ figure {
 
 .footer {
     padding: 24px 14%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer-text {
     color: #F9FAF8;
     font-size: 18px;
+    margin: 0 auto;
 }
 
 .nav, 
